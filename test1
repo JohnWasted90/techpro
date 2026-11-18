@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="el">
+ 
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>first test</title>
+
+</head>
+<body>      
+<header>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKaFXMEvAWQde2FkfJVNKLc5S8gzr1CWSqXPKTaXRnzA&s=10" alt="Avatar" style="width:90px">
+  <h1>Apostolidis Ioannis</h1>
+    <nav>
+        <UL>
+<LI><span>Html</span></li>
+<li><span>css  </span></li>
+<li><span>javascript</span></li>
+    </nav>
+</ul>a
+</header>
+
+<main>
+<div class="section1">
+  <h2>My skills</h2>
+  <p>My name is Giannis Apostolidis and I am a frontend developer. I have experience in HTML, CSS, and JavaScript. I am passionate about creating beautiful and functional websites.</p>    
+<div class="section2">
+  <h2>My projects</h2>
+  <p>I have worked on several projects, including a personal portfolio website, a blog platform, and an e-commerce site. I am always looking for new challenges and opportunities to improve my skills.</p>     
+  <div class="section3">
+  <h2><a href="mailto:ioannisapostol90@gmail.com">Contact me</a></h2>
+</main>
+<footer>  
+<ul>
+<li> contanct me </li>
+<li> email </li>
+<li>phone </li>
+
+</ul>
+</footer>
+  
+
+</body>
